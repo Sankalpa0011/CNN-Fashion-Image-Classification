@@ -1,7 +1,8 @@
-Certainly! Here’s a sample README file that you can add to your GitHub repository. This README file provides essential information about your project, including setup instructions, usage, and deployment details, without exposing sensitive information.
+---
 
-```markdown
 # CNN Fashion Image Classification
+
+---
 
 This repository contains a Streamlit app for classifying fashion images using a Convolutional Neural Network (CNN). The app demonstrates image classification capabilities with various fashion categories.
 
